@@ -2,7 +2,8 @@
 #
 #  
 #  1699W [                         :::::::::::|:::::::::::::::::::::::             ]
-#                    ^
+#                    ^--- ratio of total available power (~35kW)     
+#                           zoomed view of one tick of total power --^
 #    ^-- total power consumption in watt  
 
 use strict;
