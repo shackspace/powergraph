@@ -8,7 +8,7 @@
 
 use strict;
 
-my $CMD='wget -qO - http://powerraw.shack:11111/';
+my $CMD='wget --tries=1 -qO - http://powerraw.shack:11111/';
 my $MAX = 35000;
 my $MAXCOLS = 100;
 #my $MAXCOLS = 80 - 7 - 3;
